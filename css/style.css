@@ -1,0 +1,32 @@
+body,ul,h1,p,div,section {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    
+    background-image: url("../images/section-background/top.jpg");
+      background-size: cover;
+      background-attachment: fixed;
+
+      .js-modal-video {
+        background-color: #0000FF;
+        border: 1px solid #333;
+        border-radius: 10px;
+        color: black;
+        display: inline-block;
+        margin: 30px;
+        padding: 10px;
+        text-decoration: none;
+      }
+}
+
+footer{
+    background-image: url("../images/section-background/footer.jpg");
+    background-size: cover;
+}
+
+span.footerofwhite {
+    color: rgb(255, 255, 255);
+  }
